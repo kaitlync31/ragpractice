@@ -1,3 +1,1 @@
-# devpractice
-# devpractice
 # rag-practice
